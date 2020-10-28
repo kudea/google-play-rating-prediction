@@ -1,4 +1,4 @@
-# google-play-rating-prediction
+# Google play rating prediction
 ## Dataset
 From Kaggle [googleplaystore.csv](https://www.kaggle.com/lava18/google-play-store-apps?fbclid=IwAR1ewDYe45_X6PghbcjYJgfO8guxUI9-EdRzpqR_Gt1c1decR_9RH6CklaQ "link")
 ## algorithm SVM vs SVR
