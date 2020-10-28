@@ -1,6 +1,6 @@
 # google-play-rating-prediction
 ## Dataset
-From Kaggle !googleplaystore.csv(https://www.kaggle.com/lava18/google-play-store-apps?fbclid=IwAR1ewDYe45_X6PghbcjYJgfO8guxUI9-EdRzpqR_Gt1c1decR_9RH6CklaQ)
+From Kaggle [googleplaystore.csv](https://www.kaggle.com/lava18/google-play-store-apps?fbclid=IwAR1ewDYe45_X6PghbcjYJgfO8guxUI9-EdRzpqR_Gt1c1decR_9RH6CklaQ "link")
 ## algorithm SVM vs SVR
 Support vector machines (SVM) is a supervised machine learning classification algorithm, 
 which can be used for classification problem in multi-dimension space.
