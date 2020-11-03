@@ -27,6 +27,6 @@ In order to find the hyperplane, two parameters C>0 and ε>0 must be given and t
  
 In our experiment, we use a free SVM toolkit, sklearn, C = 1to train the SVR model.
 # Method
-![image](https://github.com/kudea/google-play-rating-prediction/blob/master/pic/result.png)
+![image](https://github.com/kudea/google-play-rating-prediction/blob/master/pic/flow.PNG)
 # Result
 ![image](https://github.com/kudea/google-play-rating-prediction/blob/master/pic/result.png)
