@@ -30,3 +30,13 @@ In our experiment, we use a free SVM toolkit, sklearn, C = 1to train the SVR mod
 ![image](https://github.com/kudea/google-play-rating-prediction/blob/master/pic/flow.PNG)
 # Result
 ![image](https://github.com/kudea/google-play-rating-prediction/blob/master/pic/result.png)
+
+# Conclusion
+The comparison of the three proposed methods are shown in Table I. 
+Among the three mothods, KNN with K = 15 has the best accuracy against the other two, 
+and Decision Tree method had the worst performance. 
+Hence, to do such rating prediction on Google Play apps, 
+SVR and KNN algorithm is more acceptable. With the trained model, 
+we can predict the rating when a app is given with the corresponding features, 
+so that improve the user experience when surfing the Apps market 
+and provide a early evaluation for developing the potential products.
